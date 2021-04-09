@@ -1,0 +1,18 @@
+.container{
+    padding:20px;
+    margin: 20px;
+}
+#content{
+    color:rgb(0, 0, 0);
+    text-align : center;
+    background-image: linear-gradient(#a7a3c4, white,#7cdde4);
+    margin: auto;
+}
+h1{
+    text-align:center;
+}
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #37bcdd, #3046C5, #60106b);
+    color: white; }
